@@ -12,4 +12,5 @@ public class DefaultBook {
     private String name;
     private String author;
     private String age;
+    private String scope;
 }
